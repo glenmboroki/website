@@ -16,7 +16,6 @@ https://Owiti-charles.github.io/Delani-Studio
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/Owiti-Charles/Delani-Studio.git```
 
 * cd website
 
